@@ -1,4 +1,4 @@
-package org.example;
+package com.sapelkinav;
 
 import java.util.stream.IntStream;
 

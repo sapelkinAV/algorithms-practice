@@ -1,4 +1,4 @@
-package org.example;
+package com.sapelkinav;
 
 public class QuickSort {
 
