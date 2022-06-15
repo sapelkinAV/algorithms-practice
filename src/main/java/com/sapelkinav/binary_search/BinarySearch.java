@@ -1,4 +1,4 @@
-package com.sapelkinav;
+package com.sapelkinav.binary_search;
 
 import java.util.stream.IntStream;
 
@@ -29,4 +29,5 @@ public class BinarySearch {
 
         return null;
     }
+
 }
