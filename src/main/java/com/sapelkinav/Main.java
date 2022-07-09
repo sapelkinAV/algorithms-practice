@@ -1,11 +1,11 @@
 package com.sapelkinav;
 
-import com.sapelkinav.graphs.UndirectedGraph;
+import com.sapelkinav.graphs.ConnectedComponents;
 
 public class Main {
     public static void main(String[] args) {
        // BinarySearch.runBinarySearch();
-        var algorithm = new UndirectedGraph();
+        var algorithm = new ConnectedComponents();
         algorithm.runAlgorithm();
 
     }
